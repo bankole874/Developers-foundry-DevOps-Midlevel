@@ -6,19 +6,7 @@
 - DevOps is not just about tools. Linux is important.
 - VirtualBox, orbstack.
 - **Assignment:** Setup **Virtual Box**, Ubuntu server, Docker desktop, Setup **localstack** (Cloud Emulator).
-- **VM SSH** - `ssh -i hammedkey Hammed@172.190.74.173`
-- **hammedkey.pub**
-``` ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGgI/1DZ4/LLx52MgqhV99u91p1tIEBU2k9b60wkyPMK hammed@Hammed```
-- **hammedkey**
-	```
-	-----BEGIN OPENSSH PRIVATE KEY-----
-	b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
-	QyNTUxOQAAACBoCP9Q2ePyy8edjIKoVffbvdadbSBAVNpPW+tMJMjzCgAAAJCTlMJhk5TC
-	YQAAAAtzc2gtZWQyNTUxOQAAACBoCP9Q2ePyy8edjIKoVffbvdadbSBAVNpPW+tMJMjzCg
-	AAAECFdQMGjcfmp1A1MD013Bh7Wyen4DzcxQqirxyiwVhDxmgI/1DZ4/LLx52MgqhV99u9
-	1p1tIEBU2k9b60wkyPMKAAAADWhhbW1lZEBIYW1tZWQ=
-	-----END OPENSSH PRIVATE KEY-----
-	```
+- [Aviatrix-ACE Multicloud Network Associate Course - Google Docs](https://docs.google.com/document/d/1J14t4qmMbh_Ey1PJFTx3ZqvJwd6EqCIx4rNjlbEoxrI/edit?tab=t.yszmcjeh44me)
 
 ## DAY 2
 
