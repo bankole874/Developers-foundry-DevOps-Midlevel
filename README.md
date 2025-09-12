@@ -1,12 +1,14 @@
 # Developer's Foundry Bootcamp
 
+- [StackEdit](https://stackedit.io/app#)
+- [Aviatrix-ACE Multicloud Network Associate Course - Google Docs](https://docs.google.com/document/d/1J14t4qmMbh_Ey1PJFTx3ZqvJwd6EqCIx4rNjlbEoxrI/edit?tab=t.yszmcjeh44me)
+
 ## DAY 1 - DevOps Principles and Setting up of local environment.
 
 - DevOps is like a service provider that ensures the clients are satisfied.
 - DevOps is not just about tools. Linux is important.
 - VirtualBox, orbstack.
 - **Assignment:** Setup **Virtual Box**, Ubuntu server, Docker desktop, Setup **localstack** (Cloud Emulator).
-- [Aviatrix-ACE Multicloud Network Associate Course - Google Docs](https://docs.google.com/document/d/1J14t4qmMbh_Ey1PJFTx3ZqvJwd6EqCIx4rNjlbEoxrI/edit?tab=t.yszmcjeh44me)
 
 ## DAY 2
 
