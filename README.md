@@ -10,7 +10,9 @@
 - VirtualBox, orbstack.
 - **Assignment:** Setup **Virtual Box**, Ubuntu server, Docker desktop, Setup **localstack** (Cloud Emulator).
 
-## DAY 2
+## DAY 2 - Introduction to Linux
+- Learnt about **commands** in Linux.
+![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4D22AQFP69cIcN2jVQ/feedshare-shrink_800/B4DZYalXoTG8Ao-/0/1744202726930?e=1760572800&v=beta&t=vvB_wbRQojivvVzwqnJeAZc3TQpmSVo0qIElVW2vgCM)
 
 ## DAY 3 - Introduction to Docker
 **Tools**
@@ -30,7 +32,6 @@
 ## DAY 4 - Introduction to CI/CD - Continuous Delivery/Deployment
 - In continuous integration workflow, we need a tool like GIT for version control.
 - [nektos/act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
-- 
 
 ## DAY 5 - Infrastructure as Code IaC
 - Terraform
