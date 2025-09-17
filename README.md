@@ -41,3 +41,8 @@
 In Terraform, we use command like "**terraform plan**" to connect to the cloud platform (e.g. AWS), check resource availability, check the stage, "**terraform apply**" to create resource, "**terraform destroy**" to delete your infra.
 
 **Terraform state and state file** - tfstate - To store infra state files. It is preferably in an object form, for example AWS S3 bucket. We can **lock** the statefile from multiple updates by keeping keys in the Dynamo DB or the new method to add lock keys to terraform itself.
+
+## Day 2.1 - K8S - Kubernetes
+K8S is a container orchestration tool.
+It is consists of API server (ETCD, Scheduler, Controller Manager) and Cluster (Nodes: Master node (Tools and SVCs required by the API server) and Worker node (Runs all tasks and containers)).
+-  Control plane: This consists the (API server's ETCD, ) 
