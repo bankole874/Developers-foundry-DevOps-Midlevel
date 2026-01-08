@@ -17,13 +17,8 @@ kubectl get nodes --context k3d-k3d-4node
 ```
 
 #### Output:
-```bash
-NAME                     STATUS   ROLES                  AGE   VERSION
-k3d-k3d-4node-agent-0    Ready    <none>                 56m   v1.31.5+k3s1
-k3d-k3d-4node-agent-1    Ready    <none>                 56m   v1.31.5+k3s1
-k3d-k3d-4node-agent-2    Ready    <none>                 56m   v1.31.5+k3s1
-k3d-k3d-4node-server-0   Ready    control-plane,master   56m   v1.31.5+k3s1
-```
+<img width="1110" height="192" alt="image" src="https://github.com/user-attachments/assets/f080b67a-b203-40c0-8915-1f37243902ee" />
+
 
 ## Steps to Reproduce (k3s)
 #### Install K3d:
