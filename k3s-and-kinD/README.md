@@ -17,7 +17,7 @@ kubectl get nodes --context k3d-k3d-4node
 ```
 
 #### Output:
-<img width="1110" height="192" alt="image" src="https://github.com/user-attachments/assets/f080b67a-b203-40c0-8915-1f37243902ee" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8244494c-1211-4b08-a87e-045a132ba21a" />
 
 
 ## Steps to Reproduce (k3s)
